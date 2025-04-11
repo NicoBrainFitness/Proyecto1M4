@@ -1,4 +1,4 @@
-<h1> <img src = "https://github.com/NicoBrainFitness/Proyecto1M2/blob/main/banner.png"> "PROYECTO 3: Landing de Negocio"</h1>
+<h1> <img src = "https://github.com/NicoBrainFitness/Proyecto1M2/blob/main/banner.png"> "PROYECTO 4: Reservas Hoteleras"</h1>
 
 # Proyecto1M4
 
